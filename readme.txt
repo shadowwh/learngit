@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick & simple.
 add merge fix bugs.
 bug branch merge
+fix issue02
