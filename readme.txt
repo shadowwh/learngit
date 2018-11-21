@@ -7,3 +7,4 @@ add merge fix bugs.
 bug branch merge
 fix issue02
 checkout to dev
+test
